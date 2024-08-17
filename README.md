@@ -1,6 +1,8 @@
 # PKNCA
 Perform noncompartmental analysis (NCA) calculations for pharmacokinetic (PK) data Use PKNCA With (In) R Software
 
+https://www.youtube.com/watch?v=-y1McB_ItCg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
